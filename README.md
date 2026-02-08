@@ -24,7 +24,7 @@ A modern desktop application for tracking borrowed tools with a sleek **Matrix-i
 ### Option 1: Download Pre-built Executable
 1. Download `ToolLendingTracker.7z` from [Releases](../../releases)
 2. Extract the archive
-3. Run `ToolLendingTracker.exe`
+3. Run `ToolLendingTracker.exe` located in Antigravity-apps-main\dist\
 
 ### Option 2: Run from Source
 ```bash
@@ -75,3 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Made with ⚡ by [Your Name]
+
